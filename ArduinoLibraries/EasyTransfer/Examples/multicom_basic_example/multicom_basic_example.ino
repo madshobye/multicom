@@ -131,9 +131,10 @@ void multicom_update()
   {
     
   //debug();
+    timeout = 3000;
     if(mydata.to == NODEID) //we got something.
     {
-       
+      
       if(mydata.param == PLEASETALK)
       {
      
