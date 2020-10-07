@@ -21,7 +21,7 @@ GNU General Public License for more details.
 *To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or
 *send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 ******************************************************************/
-#ifndef EasyTransfer_h
+#ifndef EasyTransfer_
 #define EasyTransfer_h
 
 
